@@ -22,6 +22,8 @@ Para reproduzir os exemplos e experimentos deste repositório, você precisará 
 
 ## Como Usar
 Repositorio de Exposição, original nao foi feito o upload com arquivos de consfiguração e espaço virtual
+![image](https://github.com/user-attachments/assets/692270f7-d696-463c-a1a4-e72bd2e0049a)
+
 
 ## Agradecimentos
 
